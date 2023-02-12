@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "368964779691",
+    "firebase_url": "https://recpiappcode-default-rtdb.firebaseio.com",
+    "project_id": "recpiappcode",
+    "storage_bucket": "recpiappcode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368964779691:android:caefa1057a30075bde01ee",
+        "android_client_info": {
+          "package_name": "com.example.firebaseautoincrement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368964779691-j2shgls3t5d98eq3jkau5qsaka4o65p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChM-rTgxn0zJ_z7T5ZiidyBVQeYZZR2Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368964779691-j2shgls3t5d98eq3jkau5qsaka4o65p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368964779691:android:333b83e6542c1ddcde01ee",
+        "android_client_info": {
+          "package_name": "com.example.notificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368964779691-j2shgls3t5d98eq3jkau5qsaka4o65p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChM-rTgxn0zJ_z7T5ZiidyBVQeYZZR2Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368964779691-j2shgls3t5d98eq3jkau5qsaka4o65p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368964779691:android:dd17dbc2f146a5aade01ee",
+        "android_client_info": {
+          "package_name": "com.example.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368964779691-j2shgls3t5d98eq3jkau5qsaka4o65p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChM-rTgxn0zJ_z7T5ZiidyBVQeYZZR2Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368964779691-j2shgls3t5d98eq3jkau5qsaka4o65p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
